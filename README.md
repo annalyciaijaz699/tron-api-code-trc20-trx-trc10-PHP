@@ -15,6 +15,16 @@
 - [靓号采集系统](https://tronapi.gitbook.io/nice)
 
 
+- 波场基础接口完整版，方便开发调用（售价500U）。https://tronapi.gitbook.io/trx
+
+- 助记词资金归集加批量转账功能（用户提现用的上），有后台（售价2000U）。https://tronapi.gitbook.io/transfer
+
+- 私钥资金归集（售价2000U）:https://tronapi.gitbook.io/collection
+
+- 波场支付系统（售价5000U）：https://tronapi.gitbook.io/pay/
+
+
+
 ### 预计八月升级新功能如下所示：
 - 1.维护一套tp6版本代码 计划在2022.08.15 之前上线
 - 2.更新tron授权功能   计划2022.08.10 之前上线
